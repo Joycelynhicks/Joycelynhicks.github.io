@@ -22,7 +22,7 @@
             <a class="nav-item nav-link" href="home.html">Home </a>
             <a class="nav-item nav-link" href="menu.html">Menu</a>
             <a class="nav-item nav-link active"  href="#">Reservation</a>
-           
+        
           </div>
         </div>
       </nav>
@@ -31,7 +31,31 @@
         <h1>Make a Reservation</h1>
         </header>
       </article>
-
+      
+      
+      <form>
+        <div class="form-group">
+          <label for="First Name">First Name</label>
+          <input type="text" class="form-control" id="formFirstName" placeholder="First Name" required>
+        </div>
+        <div class="form-group">
+          <label for="Last Name">Last Name</label>
+          <input type="text" class="form-control" id="formLastName" placeholder="Last Name" required>
+        </div>
+        <div class="form-group">
+          <label for="Email">Email</label>
+          <input type="text" class="form-control" id="Email" placeholder="Email" required>
+        </div>
+        <div class="form-group">
+          <label for="Date">Date</label>
+          <input type="date" name="date" placeholder="select date" min= "2020-01-01" max="2021-01-01" required>
+        </div>
+        <div class="form-group">
+          <label for="Time">Time</label>
+          <input type="time" name="mytime" placeholder="Select time" required>
+        </div>
+        <input type="submit" value="Make Reservation" />
+      </form>
 
    
     <!-- Optional JavaScript -->
