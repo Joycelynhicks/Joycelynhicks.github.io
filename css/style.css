@@ -9,4 +9,10 @@ h1 {
     height: 120px;
 }
 
+div > img {
+    
+    max-width: 40%;
+   
+}
+
 
