@@ -11,7 +11,7 @@ h1 {
     height: 120px;
 }
 
-div > img {
+.mainImage {
     
     border: 0px;
     width: 100%;
