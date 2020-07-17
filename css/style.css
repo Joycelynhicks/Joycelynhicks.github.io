@@ -18,9 +18,7 @@ h1 {
     height: 400px;
     padding: 5px;
     padding-top: 0px;
-  
-    
-    
+   
    
 }
 
@@ -32,4 +30,9 @@ h1 {
     margin: 20px auto;
 }
 
-
+h2 {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 100px;
+    color: #8e8d8a;
+}
