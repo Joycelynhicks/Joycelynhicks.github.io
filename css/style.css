@@ -42,3 +42,16 @@ h2 {
     padding: 40px;
     border: 0px;
 }
+
+.sectionDiv {
+   float: right;
+   height: 100px;
+   margin: 10px;
+   width: 50%;
+   border: solid red 2px;
+}
+
+.pink {
+    background-color: pink;
+    border: 1px solid purple;
+}
