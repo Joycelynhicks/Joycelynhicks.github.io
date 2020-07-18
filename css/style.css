@@ -47,6 +47,10 @@ h2 {
     float: right;
 }
 
+.sectionText {
+    text-align: center;
+}
+
 .sectionDiv {
    float: right;
    height: 100px;
