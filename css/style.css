@@ -79,4 +79,8 @@ h2 {
 
 .mainText {
     clear: both;
+    border: solid 2px #e85a4f;
+    margin-right: 300px;
+    margin-left: 300px;
+    text-align: center;
 }
