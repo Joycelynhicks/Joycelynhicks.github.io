@@ -71,3 +71,12 @@ h2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
 }
 
+.sectionHeader {
+    clear: both;
+    text-align: center;
+    color: #f3ae2e;
+}
+
+.mainText {
+    clear: both;
+}
