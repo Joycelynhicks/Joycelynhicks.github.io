@@ -19,5 +19,5 @@ Crust is a sample website for a resturant. This website provides customers with 
 
 - Adding Order Page, so customers can order directly from the website.
 - Adding Login Page, so customers can track current and previous orders.
-- Adding customer reviews, so new customers have a better idea of customer experience.
+- Adding responsive capability, so customers can use on smaller devices.
 
