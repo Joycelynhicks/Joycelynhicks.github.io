@@ -1,7 +1,13 @@
-# Crust Website
+# Joycelyn Hicks
 
 
-Crust is a sample website for a resturant. This website provides users with an informational site to view company inforation such as location, hours of operation, menu, and prices. 
+# Overview/Description
+
+Crust is a sample website for a resturant. This website provides customers with an informational site to view company information such as location, hours of operation, menu, and prices. 
+
+# Functionality
+
+- With this website customers are able to make reservations directly on the site.
 
 # Technologies
 
@@ -9,6 +15,9 @@ Crust is a sample website for a resturant. This website provides users with an i
 - CSS
 - Bootstrap v4.5
 
-# Features
+# Future Improvements
 
-- Place reservation
+- Adding Order Page, so customers can order directly from the website.
+- Adding Login Page, so customers can track current and previous orders.
+- Adding customer reviews, so new customers have a better idea of customer experience.
+
