@@ -65,6 +65,10 @@ h2 {
 .textSection {
     text-align: center;
     padding-top: 150px;
+    border: solid 2px #e85a4f;
+    margin: 60px 20px 40px 700px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 
