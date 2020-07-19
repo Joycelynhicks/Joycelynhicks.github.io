@@ -56,6 +56,10 @@ h2 {
 .sectionText {
     text-align: center;
     padding-top: 150px;
+    border: solid 2px #e85a4f;
+    margin: 100px 700px 0px 20px;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 
 
